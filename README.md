@@ -2,7 +2,8 @@
 Hey! I'm Orangemonkey68, or Clare. I'm active in the Minecraft Fabric modding community. 
 ## Current projects:  
 - [NovaGenetica](https://github.com/orangemonkey68/NovaGenetica)
-  - A spiritual successor to [Advanced Genetics](http://ag.teamdna.de/) for the Fabric modding platform. 
+  - A spiritual successor to [Advanced Genetics](http://ag.teamdna.de/) for the Fabric modding platform.  
+
 [![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangemonkey68&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
