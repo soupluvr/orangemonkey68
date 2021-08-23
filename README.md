@@ -1,7 +1,7 @@
 # Orangemonkey68
 Hey! I'm Orangemonkey68, or Clare. I'm active in the Minecraft Fabric modding community.
 ## Current projects:  
-- [PowerTools] (https://github.com/orangemonkey68/PowerTools)
+- [PowerTools](https://github.com/orangemonkey68/PowerTools)
   - A server-sided minecraft tool letting you bind any command(s) to an item. Availible for all minecraft platforms.
 - [NovaGenetica](https://github.com/orangemonkey68/NovaGenetica)
   - A spiritual successor to [Advanced Genetics](http://ag.teamdna.de/) for the Fabric modding platform.  
